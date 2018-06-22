@@ -1,0 +1,30 @@
+
+
+******************************************************---------CMPE 207 : PROJECT : GROUP 14---------**********************************************************
+
+
+
+
+						  Please Enter your details:
+
+
+							First Name:
+							Last  Name:
+							Age:
+							Gender:
+							email ID:
+							username :
+ 							mobile number:
+
+
+
+Please enter the details mentioned above in <<First Name>>  <<Last  Name>> <<Age>> <<Gender>> <<email ID>>  <<username>> <<mobilenumber>> format and press RETURN.
+
+
+
+		    						       and hit RETURN:
+
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*************************************************

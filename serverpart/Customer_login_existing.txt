@@ -1,0 +1,25 @@
+
+
+*****************************************---------CMPE 207 : PROJECT : GROUP 14---------*****************************************
+
+
+
+
+						  Please Enter your login details:
+
+
+							username : 
+							password :
+
+
+
+  		    Please enter the details mentioned above in <<username>>  <<password>> format and press RETURN.
+
+
+
+		    New User ? Sign up with us , press 1 and hit RETURN:
+
+
+
+
+*********************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--**********************************

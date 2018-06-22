@@ -1,0 +1,29 @@
+
+
+******************************************************---------CMPE 207 : PROJECT : GROUP 14---------**********************************************************
+
+
+
+
+						  Please Enter your details:
+
+
+							First Name:
+							Last  Name:
+							airline name:
+							username :
+ 							password :
+						 	confirm password:
+
+
+
+Please enter the details mentioned above in <<First Name>>  <<Last  Name>>  <<airline name>>  <<username>> <<password>> <<confirm password>> format 
+
+
+
+		    						       and hit RETURN:
+
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*************************************************

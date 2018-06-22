@@ -1,0 +1,28 @@
+
+
+
+
+************************************************---------CMPE 207 : PROJECT : GROUP 14-------********************************************
+
+
+	
+	
+
+		Welcome, Pramod !
+
+				Here are a list of Hotels at SanJose,
+
+					1. Plaza Hotel , Stockton Avenue , 5 Star , 150$ per night.
+
+					2. City Hotel , Alameda Avenue , 5 Star , 180$ per night.
+
+					3. Cruz Hotel , Santacruz Avenue , 5 Star , 150$ per night.
+
+
+
+
+
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*****************************

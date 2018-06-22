@@ -1,0 +1,34 @@
+
+******************************************************---------CMPE 207 : PROJECT : GROUP 14---------**********************************************************
+
+	
+
+
+
+
+
+welcome nagthej!
+
+
+				Please select any one of the options OR enter b anytime to go back to previous menu:
+
+
+								0: Create database
+								1: Add database
+ 								2: Update database
+								3: Delete database
+ 								4: Display database
+						 	
+
+
+
+				Please select the option mentioned above in <<Option_number>> format and press RETURN.
+
+
+
+
+		    						      
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*************************************************

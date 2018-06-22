@@ -1,0 +1,34 @@
+
+
+***************************************************---------CMPE 207 : PROJECT : GROUP 14---------******************************************************
+
+
+
+
+
+
+						 WELCOME TO DISTRIBUTED AIRLINE RESERVATION SYSTEM
+				     	        ===================================================
+
+
+
+						Choose your login type:
+
+
+						1. Customer Login
+						2. System Admin Login
+						3. Commertial Airliner Login
+
+
+
+					
+						Please type the appropriate number and press RETURN.
+
+
+
+
+
+
+
+
+******************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--***********************************************

@@ -1,0 +1,30 @@
+
+
+
+
+********************************************---------CMPE 207 : PROJECT : GROUP 14---------*****************************************
+
+
+		
+
+Search results:
+
+
+san jose chicago 12/25/2016 Indian Airways	Dept 06.15		Economy class	  160$
+san jose chicago 12/25/2016 Indian Airways	Dept 07.15		Economy class	  160$
+san jose chicago 12/25/2016 ethihad Airways	Dept 07.55		Economy class	  167$
+san jose chicago 12/25/2016 ethihad Airways	Dept 11.15		Economy class	  167$
+san jose chicago 12/25/2016 Singapore Airways	Dept 13.15		Economy class	  175$
+san jose chicago 12/25/2016 British Airlines	Dept 15.15		Economy class	  180$
+san jose chicago 12/25/2016 Luftansa Airways	Dept 16.15		Economy class	  200$
+san jose chicago 12/25/2016 Chicago Airways	Dept 18.15		Economy class	  260$
+san jose chicago 12/25/2016 SouthwestAirlines	Dept 22.15		Business class	  2060$
+
+
+Please Input the <<Airlines>> and <<Dept time>> to take you to Complete booking page
+
+
+
+
+
+**************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--********************************

@@ -1,0 +1,55 @@
+Read Me:
+=========
+
+	This server program is designed to fetch the file the client requests for , the maximum file size supported by this program is < 1000 bytes. The Files that will be present by Default in the server is 500.txt and 1000.txt, the client can ask for any of these files , the server fetches this file and creates a copy of this File on the client side. The type of file transfer from the server end depends on the protocol the client uses, here we have build both TCP and UDP servers using multiple features like Iterative , concurrent , Multithread , Preforked and Prethreaded.
+
+	The Source code consists of one part compilation like ***_Server.C or it may consist of additional support files along with the main source file . To make it easy for compilation, there  is a make file provided for every server and TCP and UDP clients .
+
+	You will be provided sample files to be fetched by the server by Default the files in the server are named as 500.txt and 1000.txt. To compile , first compile both client and server by using the Makefile (type makeall).
+
+	Once the file is compiled, the program can be run by the user by giving command line arguments.
+
+
+Typically for a client the command line will be something like:
+
+<executable> <hostname> <portnumber/service> <FILE_NAME.txt> 
+
+
+Typically for a Server the command line will be something like:
+
+
+<executable> <portnumber/service> 
+with an exception of a few servers which might need a <hostname> as the argument before port number( for this case , the sample commands and the sample outputs will be presented ).
+
+Sample Command line argument for Client:
+
+<executable> <hostname> <portnumber/service> <FILE_NAME.txt> 
+  ./client   127.0.0.1          5000             500.txt
+
+
+Sample Command line argument for Server:
+
+<executable> <portnumber/service> 
+ ./server            5000
+--OR--
+<executable> <hostname> <portnumber/service> 
+ ./server    127.0.0.1          5000
+
+
+Sample output : ( This can handle Multiple clients at once by multithreading )
+
+On Client:
+
+  $:   ./client   127.0.0.1          5000             500.txt
+  500.txt is successfully read from the server.
+ 
+  contents of the file:
+  *****Prints the contents of the file*********
+
+On Server:
+
+  $:   ./server 5000
+  file requested from the client is:500.txt
+ 
+  Data read from the file:
+  *****Prints the contents of the file*********

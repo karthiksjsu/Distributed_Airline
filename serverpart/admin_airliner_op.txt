@@ -1,0 +1,34 @@
+
+******************************************************---------CMPE 207 : PROJECT : GROUP 14---------**********************************************************
+
+	
+
+
+
+
+
+welcome to Airliner database!
+
+
+				Please select any one of the options OR enter b anytime to go back to previous menu:
+
+
+							
+								1: Add Airliner
+ 								2: Delete Airliner
+								3: Display Airliner Database
+ 								
+						 	
+
+
+
+				Please select the option mentioned above in <<Option_number>> format and press RETURN.
+
+
+
+
+		    						      
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*************************************************

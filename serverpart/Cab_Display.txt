@@ -1,0 +1,31 @@
+
+
+
+
+************************************************---------CMPE 207 : PROJECT : GROUP 14-------********************************************
+
+
+	
+	
+
+		Welcome, Pramod !
+
+				Here are a few cab service providers in Sanjose,
+
+				1. Uber Ride , use Uber App to book a ride for as low as 2$ per Mile.
+
+				2. Lyft Ride , use Lyft App to book a ride for as low as 1.5$ per Mile.
+
+				3. CityRide , call 408-908-9303 to book a ride for as low as 2$ per Mile.
+
+				4. Safe Ride ,call 408-908-9303 to book a ride for as low as 2$ per Mile.
+
+
+
+
+
+
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*****************************

@@ -1,0 +1,28 @@
+
+
+
+
+************************************************---------CMPE 207 : PROJECT : GROUP 14-------********************************************
+
+
+	
+	
+
+		Welcome, Pramod !
+
+							where do you want to travel? when ?
+						
+							City :
+							area :
+
+						please enter << city >>  <<area>> format and hit RETURN
+
+
+
+
+
+
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*****************************

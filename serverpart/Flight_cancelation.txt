@@ -1,0 +1,21 @@
+
+
+
+
+******************************************************---------CMPE 207 : PROJECT : GROUP 14---------**********************************************************
+
+
+		
+
+		Welcome, Pramod !
+
+       						      		enter the flight PNR number:
+
+
+
+					please enter your 10 digit PNR <<1234567890>> in this format and hit RETURN
+
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*************************************************

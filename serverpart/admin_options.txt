@@ -1,0 +1,34 @@
+
+******************************************************---------CMPE 207 : PROJECT : GROUP 14---------**********************************************************
+
+	
+
+
+
+
+
+welcome Karthik!
+
+
+				Please select any one of the options OR enter b anytime to go back to previous menu:
+
+
+							
+								1: Go to Flight database
+ 								2: Go to Airliner database
+								3: Back up the database
+ 								
+						 	
+
+
+
+				Please select the option mentioned above in <<Option_number>> format and press RETURN.
+
+
+
+
+		    						      
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*************************************************

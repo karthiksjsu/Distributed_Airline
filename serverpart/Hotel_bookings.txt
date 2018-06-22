@@ -1,0 +1,28 @@
+
+
+
+
+************************************************---------CMPE 207 : PROJECT : GROUP 14-------********************************************
+
+
+	
+	
+
+		Welcome, Pramod !
+
+							where do you want to stay? when ?
+						
+							City :
+							
+
+						please enter << city >>  format and hit RETURN
+
+
+
+
+
+
+
+
+
+************************************************--KARTHIK SIDDALINGAPPA : NAGTHEJ MANANGI R : PRAMOD PRAKASH--*****************************
